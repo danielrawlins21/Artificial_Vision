@@ -1,0 +1,6 @@
+README.md
+setup.py
+Artificial_Vision_Project.egg-info/PKG-INFO
+Artificial_Vision_Project.egg-info/SOURCES.txt
+Artificial_Vision_Project.egg-info/dependency_links.txt
+Artificial_Vision_Project.egg-info/top_level.txt
