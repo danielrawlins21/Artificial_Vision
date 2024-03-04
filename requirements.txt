@@ -5,5 +5,4 @@ scikit-image
 opencv-contrib-python
 seaborn
 jupyter
-
 -e .
